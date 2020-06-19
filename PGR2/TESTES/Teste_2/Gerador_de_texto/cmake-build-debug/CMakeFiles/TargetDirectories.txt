@@ -1,0 +1,3 @@
+/home/matheus/Google Drive/Engenharia de Telecomunicações/PGR2/TESTES/Teste_2/Gerador_de_texto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matheus/Google Drive/Engenharia de Telecomunicações/PGR2/TESTES/Teste_2/Gerador_de_texto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/Google Drive/Engenharia de Telecomunicações/PGR2/TESTES/Teste_2/Gerador_de_texto/cmake-build-debug/CMakeFiles/Gerador_de_texto.dir

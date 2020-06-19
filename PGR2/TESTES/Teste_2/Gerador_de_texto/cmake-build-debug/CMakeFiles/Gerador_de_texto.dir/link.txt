@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gerador_de_texto.dir/main.cpp.o  -o Gerador_de_texto 

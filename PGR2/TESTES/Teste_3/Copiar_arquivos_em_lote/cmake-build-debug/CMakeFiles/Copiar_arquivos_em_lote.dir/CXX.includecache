@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matheus/Área de Trabalho/PGR2/Teste_3/Copiar_arquivos_em_lote/main.cpp
+iostream
+-
+queue
+-
+string
+-
+fstream
+-
+cstdio
+-
+

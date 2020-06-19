@@ -1,0 +1,3 @@
+/home/matheus/Área de Trabalho/PGR2/Teste_3/Copiar_arquivos_em_lote/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matheus/Área de Trabalho/PGR2/Teste_3/Copiar_arquivos_em_lote/cmake-build-debug/CMakeFiles/Copiar_arquivos_em_lote.dir
+/home/matheus/Área de Trabalho/PGR2/Teste_3/Copiar_arquivos_em_lote/cmake-build-debug/CMakeFiles/edit_cache.dir

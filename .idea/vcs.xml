@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/FILA/Fila_Enfileira_Caracteres" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/FILA/Fila_Separa_Substrings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/FILA/Fila_Separador_Maiusculas_Minusculas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_ContadorPalavras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_Contadores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_CopiaLista" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_FiltraValores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_Junta_strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_ListaOrdenadaInteiros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_Numeros_Inteiros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_OrdenarLinhasArquivo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_OrdenarLinhasPorComprimento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_PalavrasRepetidas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/LISTA/Lista_Separa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/PILHA/Pilha_Caminhos_Arquivos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/PILHA/Pilha_EmpilhaCaracteres" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/PILHA/Pilha_InversorLinhas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/PROJETOS/projeto-2-projeto_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/PROJETOS/projeto1-projeto_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TABELA_HASH/Interseccao_Listas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TABELA_HASH/Relacionar_Numeros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TABELA_HASH/contador_de_palavras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TABELA_HASH/dentifica_Frequentes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TABELA_HASH/teste" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PGR2/TESTES/Teste_4/LocalizadorDeArquivo" vcs="Git" />
+  </component>
+</project>

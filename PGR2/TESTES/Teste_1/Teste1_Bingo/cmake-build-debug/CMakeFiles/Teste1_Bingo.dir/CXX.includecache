@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matheus/Área de Trabalho/Projeto_Bingo/Teste1_Bingo/main.cpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+time.h
+-
+

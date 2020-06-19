@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Eliminando_informacoes_repetidas" targetName="Eliminando_informacoes_repetidas" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4390b3f8-d02d-49f4-bd62-a02d38856df8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZiSHeUZGu1iqEz89juoWzoDhR7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Eliminando_informações_repetidas/CMakeLists.txt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Eliminando_informacoes_repetidas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eliminando_informacoes_repetidas" TARGET_NAME="Eliminando_informacoes_repetidas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Eliminando_informacoes_repetidas" RUN_TARGET_NAME="Eliminando_informacoes_repetidas">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4390b3f8-d02d-49f4-bd62-a02d38856df8" name="Default Changelist" comment="" />
+      <created>1585320334147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585320334147</updated>
+      <workItem from="1585320335652" duration="626000" />
+      <workItem from="1586202807530" duration="2243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="176" width="773" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586202897023">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state x="291" y="176" width="773" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.690@0.27.1366.690" timestamp="1586202897023" />
+    <state x="466" y="129" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586203359967">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state x="466" y="129" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.690@0.27.1366.690" timestamp="1586203359967" />
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1586213329067">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.27.1366.690@0.27.1366.690" timestamp="1586213329067" />
+    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1586213329066">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.center/0.27.1366.690@0.27.1366.690" timestamp="1586213329066" />
+    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1586213329065">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.left/0.27.1366.690@0.27.1366.690" timestamp="1586213329065" />
+    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1586213329066">
+      <screen x="0" y="27" width="1366" height="690" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.right/0.27.1366.690@0.27.1366.690" timestamp="1586213329066" />
+  </component>
+</project>

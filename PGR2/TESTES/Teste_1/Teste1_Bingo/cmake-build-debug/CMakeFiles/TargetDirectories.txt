@@ -1,0 +1,3 @@
+/home/matheus/Área de Trabalho/Projeto_Bingo/Teste1_Bingo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matheus/Área de Trabalho/Projeto_Bingo/Teste1_Bingo/cmake-build-debug/CMakeFiles/Teste1_Bingo.dir
+/home/matheus/Área de Trabalho/Projeto_Bingo/Teste1_Bingo/cmake-build-debug/CMakeFiles/edit_cache.dir

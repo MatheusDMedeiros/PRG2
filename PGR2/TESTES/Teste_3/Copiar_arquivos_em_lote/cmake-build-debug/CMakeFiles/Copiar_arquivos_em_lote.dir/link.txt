@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Copiar_arquivos_em_lote.dir/main.cpp.o  -o Copiar_arquivos_em_lote 
